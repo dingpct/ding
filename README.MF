@@ -1,4 +1,8 @@
 ding is a good man 3
 DING IS A GOOD MAN 
 ding is a good man 10
+<<<<<<< HEAD
 
+=======
+dpc is a good man 11
+>>>>>>> 0663cc8... 11 commit
